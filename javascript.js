@@ -7,4 +7,4 @@ const division = (a,b)=> {
     if( b === 0 ) return a / b
 }
 
-const logHello = ()=> console.log("Hello");
+const logHelloWorld = ()=> console.log("Hello World");
